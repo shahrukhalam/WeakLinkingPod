@@ -1,0 +1,21 @@
+PODS:
+  - Feature (1.0.1)
+  - Main (1.0.1)
+
+DEPENDENCIES:
+  - Feature (from `Feature`)
+  - Main (from `Main`)
+
+EXTERNAL SOURCES:
+  Feature:
+    :path: Feature
+  Main:
+    :path: Main
+
+SPEC CHECKSUMS:
+  Feature: 4be087f6abc286ade977545ca435d139f0f3bc76
+  Main: 7f935dc18fd81a75a78e076f8d39e7146493ad11
+
+PODFILE CHECKSUM: 6d01b699fb152c48cd2fb42d36d7ca16e38160e0
+
+COCOAPODS: 1.11.0
